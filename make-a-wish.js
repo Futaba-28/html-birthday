@@ -1,3 +1,3 @@
 document.querySelector("button").addEventListener("click", function(){
-  window.location.href = './home.html'; // 通常の遷移
+  window.location.href = './index.html'; // 通常の遷移
 })
